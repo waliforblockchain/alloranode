@@ -1,0 +1,2 @@
+# alloranode
+allora node
